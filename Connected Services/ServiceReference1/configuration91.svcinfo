@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<SavedWcfConfigurationInformation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="9.1" CheckSum="ufz2f02jx/IMo2xynP/fxG/CMOq2EIAspx3AWlA6EMk=">
+<SavedWcfConfigurationInformation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="9.1" CheckSum="Qtm5F+YHT1cTb7zzsd3AdoiMWz+PWVAu+GP/GqNq6Ls=">
   <bindingConfigurations>
     <bindingConfiguration bindingType="basicHttpBinding" name="EndpointService">
       <properties>
@@ -112,10 +112,10 @@
     </bindingConfiguration>
   </bindingConfigurations>
   <endpoints>
-    <endpoint name="EndpointService" contract="ServiceReference1.IService1" bindingType="basicHttpBinding" address="http://localhost:1908/" bindingConfiguration="EndpointService">
+    <endpoint name="EndpointService" contract="ServiceReference1.IService1" bindingType="basicHttpBinding" address="http://localhost:1907/" bindingConfiguration="EndpointService">
       <properties>
         <property path="/address" isComplexType="false" isExplicitlyDefined="true" clrType="System.Uri, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          <serializedValue>http://localhost:1908/</serializedValue>
+          <serializedValue>http://localhost:1907/</serializedValue>
         </property>
         <property path="/behaviorConfiguration" isComplexType="false" isExplicitlyDefined="false" clrType="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
           <serializedValue />
